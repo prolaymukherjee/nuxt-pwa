@@ -1,0 +1,15 @@
+{
+  "@vite/client": {
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/opt/lampp/htdocs/exprement/nuxt-test/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "isEntry": true,
+    "file": "/opt/lampp/htdocs/exprement/nuxt-test/node_modules/nuxt/dist/app/entry.js"
+  }
+}

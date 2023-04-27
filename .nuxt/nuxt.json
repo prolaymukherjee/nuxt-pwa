@@ -1,0 +1,9 @@
+{
+  "_hash": "KWTKCh0vYx",
+  "project": {
+    "rootDir": "/opt/lampp/htdocs/exprement/nuxt-test"
+  },
+  "versions": {
+    "nuxt": "3.4.2"
+  }
+}
