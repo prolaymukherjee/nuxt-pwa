@@ -3,7 +3,7 @@ import 'node:http';
 import 'node:https';
 import 'destr';
 import 'h3';
-export { n as default } from './chunks/nitro/node-server.mjs';
+export { n as default } from './chunks/node-server.mjs';
 import 'ofetch';
 import 'unenv/runtime/fetch/index';
 import 'hookable';

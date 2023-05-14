@@ -10,7 +10,7 @@ type NuxtAppInjections =
   InjectionType<typeof import("../../node_modules/nuxt/dist/head/runtime/plugins/unhead").default> &
   InjectionType<typeof import("../../node_modules/nuxt/dist/pages/runtime/plugins/router").default> &
   InjectionType<typeof import("../../node_modules/nuxt/dist/pages/runtime/plugins/prefetch.client").default> &
-  InjectionType<typeof import("../templates.pwa.client.54b15d9f").default> &
+  InjectionType<typeof import("../templates.pwa.client.c18cb3fc").default> &
   InjectionType<typeof import("../../node_modules/nuxt/dist/app/plugins/chunk-reload.client").default>
 
 declare module '#app' {

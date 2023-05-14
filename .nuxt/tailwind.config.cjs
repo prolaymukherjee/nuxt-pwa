@@ -6536,16 +6536,16 @@ module.exports = {
   "content": {
     "relative": false,
     "files": [
-      "/opt/lampp/htdocs/exprement/nuxt-test/components/**/*.{vue,js,ts}",
-      "/opt/lampp/htdocs/exprement/nuxt-test/layouts/**/*.vue",
-      "/opt/lampp/htdocs/exprement/nuxt-test/pages/**/*.vue",
-      "/opt/lampp/htdocs/exprement/nuxt-test/composables/**/*.{js,ts}",
-      "/opt/lampp/htdocs/exprement/nuxt-test/plugins/**/*.{js,ts}",
-      "/opt/lampp/htdocs/exprement/nuxt-test/utils/**/*.{js,ts}",
-      "/opt/lampp/htdocs/exprement/nuxt-test/App.{js,ts,vue}",
-      "/opt/lampp/htdocs/exprement/nuxt-test/app.{js,ts,vue}",
-      "/opt/lampp/htdocs/exprement/nuxt-test/Error.{js,ts,vue}",
-      "/opt/lampp/htdocs/exprement/nuxt-test/error.{js,ts,vue}"
+      "C:/Users/mahmudul/OneDrive - Bangladesh University of Professionals/Desktop/Vue project/nuxt-pwa/components/**/*.{vue,js,ts}",
+      "C:/Users/mahmudul/OneDrive - Bangladesh University of Professionals/Desktop/Vue project/nuxt-pwa/layouts/**/*.vue",
+      "C:/Users/mahmudul/OneDrive - Bangladesh University of Professionals/Desktop/Vue project/nuxt-pwa/pages/**/*.vue",
+      "C:/Users/mahmudul/OneDrive - Bangladesh University of Professionals/Desktop/Vue project/nuxt-pwa/composables/**/*.{js,ts}",
+      "C:/Users/mahmudul/OneDrive - Bangladesh University of Professionals/Desktop/Vue project/nuxt-pwa/plugins/**/*.{js,ts}",
+      "C:/Users/mahmudul/OneDrive - Bangladesh University of Professionals/Desktop/Vue project/nuxt-pwa/utils/**/*.{js,ts}",
+      "C:/Users/mahmudul/OneDrive - Bangladesh University of Professionals/Desktop/Vue project/nuxt-pwa/App.{js,ts,vue}",
+      "C:/Users/mahmudul/OneDrive - Bangladesh University of Professionals/Desktop/Vue project/nuxt-pwa/app.{js,ts,vue}",
+      "C:/Users/mahmudul/OneDrive - Bangladesh University of Professionals/Desktop/Vue project/nuxt-pwa/Error.{js,ts,vue}",
+      "C:/Users/mahmudul/OneDrive - Bangladesh University of Professionals/Desktop/Vue project/nuxt-pwa/error.{js,ts,vue}"
     ],
     "extract": {},
     "transform": {}
