@@ -1,15 +1,18 @@
 <template>
+
+
   <div>
     <VitePwaManifest />
     <h2>Home</h2>
     
     <button
-       v-if="deferredPrompt"  ref="addBtn"
+       v-if="deferredPrompt" 
        class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
        @click="clickCallback"
     >
     Install Home Screen Button
     </button>
+
 
     <button  class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded m-3" @click="share">Share</button>
     
@@ -17,6 +20,7 @@
     <button class="bg-pink-500 hover:bg-pink-700 text-white font-bold py-2 px-4 rounded m-3" @touchstart="handleTouchStart" @touchmove="handleTouchMove" @touchend="handleTouchEnd">Touch me</button>
     
   </div>
+
 
 </template>
 
@@ -31,6 +35,8 @@ export default {
   }),
   mounted() {
     this.captureEvent();
+    console.log('deferredPrompt',this.deferredPrompt);
+   
   },
   methods: {
     captureEvent() {
@@ -39,6 +45,7 @@ export default {
         e.preventDefault()
         // Stash the event so it can be triggered later.
         this.deferredPrompt = e
+        console.log(this.deferredPrompt);
       })
     },
     clickCallback() {
